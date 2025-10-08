@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="data/collection/spring_length_collection.m" GroupUUID="default" Icon="" Name="spring_length_collection" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="9ab9606a-0e21-4b35-82e0-92d107243410"/>
+</Info>

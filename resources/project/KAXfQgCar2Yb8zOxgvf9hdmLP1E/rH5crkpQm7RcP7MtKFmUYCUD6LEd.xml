@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="data/collection/spring_weight_collection.m" GroupUUID="default" Icon="" Name="spring_weight_collection" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="1b3d8378-3945-4f54-ba18-460d04634597"/>
+</Info>

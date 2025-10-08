@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="data/collection/oscillation_data_collection.m" GroupUUID="default" Icon="" Name="oscillation_data_collection" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="e0e859d3-b9bf-44f1-81ae-8bc0e7037ccd"/>
+</Info>
